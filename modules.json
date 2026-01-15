@@ -1,17 +1,18 @@
 {
-  "module01": "Review of Foundations: cancer, macromolecules, and functional groups.",
-  "module02": "Thermodynamics and acid/base chemistry.",
-  "module03": "Enzyme Kinetics: catalytic activity, inhibition, and thermodynamics.",
-  "module04": "Metabolism Overview: catabolic and anabolic pathways.",
-  "module05": "Glycolysis and Fermentation.",
-  "module06": "Citric Acid Cycle and Oxidative Phosphorylation.",
-  "module07": "Photosynthesis.",
-  "module08": "Nucleic Acids: DNA, RNA, and replication.",
-  "module09": "Gene Expression and Regulation.",
-  "module10": "Protein Structure and Folding.",
-  "module11": "Signal Transduction.",
-  "module12": "Membrane Transport and Channels.",
-  "module13": "Biochemical Techniques and Methods.",
-  "module14": "Metabolic Integration and Control.",
-  "module15": "Molecular Genetics and Biotechnology."
+  "module01": "Succeeding in BC 351, Cancer Overview, Anticancer Drugs, Chemistry of Macromolecules.",
+  "module02": "Bioenergetics, Water, Acid/Bases, Amino Acids.",
+  "module03": "Amino Acid Polymers, Peptide Bonds, Protein Primary and Secondary Structure.",
+  "module04": "Exam 1.",
+  "module05": "Protein Tertiary Structure, Quaternary Structure and Folding.",
+  "module06": "Intermolecular Interactions (Mb and Hb) and Enzyme Catalysis.",
+  "module07": "Enzyme Kinetics, Cancer Transmembrane Transport, Membrane Lipids Structure and Dynmamics.",
+  "module08": "Exam 2.",
+  "module09": "Membrane Protein Structure, Transmembrane Transport, Cancer Cell Metabolism and Metabolism Back to the Basics.",
+  "module10": "Metabolism Back to the Basics (cont.), Phosphate Transfer Reactions, Oxidation-Reduction and Glycolysis.",
+  "module11": "Glycolysis (cont.), Fermentation, Gluconeogenesis and Allosteric Enzymes.",
+  "module12": "Exam 3.",
+  "module13": "ATP/ADP Ratios, Metabolic Regulation Overview, Glycolysis vs. Gluconeogenesis Regulations and the Citric Acid Cycle.",
+  "module14": "Citric Acid Cycle Regulation, Fatty Acid Catabolism and the Electron Transport Chain.",
+  "module15": "Electron Transport Chain (cont.) and ATP Synthase."
+  "module16": "Exam 4."
 }
