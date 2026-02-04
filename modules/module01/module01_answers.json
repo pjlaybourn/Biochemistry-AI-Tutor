@@ -105,6 +105,49 @@
     ],
     "uncertainty_followup": "Take a moment to jot down even a rough idea — think about the evidence for single-cell origin and progression."
   },
+
+    "4": {
+    "concept_domain": "cancer",
+    "required_concepts": [
+      "epidemiologic studies",
+      "environment and lifestyle",
+      "geographic location",
+      "chemical factors",
+      "physical factors",
+      "lifestyle factors",
+      "factors external to our cells"
+    ],
+    "followups": {
+      "epidemiologic studies": [
+        "Think about what kind of evidence scientists would need to decide if the types of cancer people develop is determined by their hereditary origin or something else. How could they address this question?"
+      ],
+      "environment and lifestyle": [
+        "How are the types of cancer people develop affected by their occupation and their personal choices?"
+      ],
+      "geographic location": [
+        "How are the types of cancer people develop affected by where in the world they live?"
+      ],
+      "chemical factors": [
+        "How are the types of cancer people develop affected by chemicals they are exposed to?"
+      ],
+      "physical factors": [
+        "How are the types of cancer people develop affected by radiation exposure?"
+      ],
+      "lifestyle factors": [
+        "How are the types of cancer people develop affected by life choices like exercise frequency, having a baby, etc.?"
+      ]'
+      "factors external to our cells": [
+        "How are the types of cancer people develop affected by factors internal to their cells?"
+      ]
+    },
+    "encouragement": [
+      "That’s a good start.",
+      "You’re close — keep going.",
+      "Good progress.",
+      "Nice work — keep thinking it through."
+    ],
+    "uncertainty_followup": "Take a moment to jot down even a rough idea — think about the evidence for most cancers being avoidable."
+  },
   "21a": {
   "concept_domain": "amino_acids",
   "required_concepts": ["6.0"],
