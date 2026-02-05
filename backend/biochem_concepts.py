@@ -164,7 +164,7 @@ BIO_CONCEPTS = {
         # ---------------------------
         # Q4 required_concepts
         # ---------------------------
-        "clonal origin": [
+        "epidemiologic studies": [
             "clonal origin",
             "single cell origin",
             "arise from a single cell",
@@ -173,7 +173,7 @@ BIO_CONCEPTS = {
             "monoclonal origin",
         ],
 
-        "progressive changes": [
+        "environment and lifestyle": [
             "progressive changes",
             "accumulation of changes",
             "stepwise changes",
@@ -181,7 +181,7 @@ BIO_CONCEPTS = {
             "progression of changes",
         ],
 
-        "morphological progression": [
+        "geographic location": [
             "morphological progression",
             "morphology changes",
             "morphologically",
@@ -191,7 +191,7 @@ BIO_CONCEPTS = {
             "increasingly abnormal appearance",
         ],
 
-        "age correlation": [
+        "chemical factors": [
             "age correlation",
             "increases with age",
             "more common with age",
@@ -200,6 +200,30 @@ BIO_CONCEPTS = {
             "older individuals have higher risk",
         ],
         
+        "physical factors": [
+            "age correlation",
+            "increases with age",
+            "more common with age",
+            "risk increases with age",
+            "age-related increase",
+            "older individuals have higher risk",
+        ],
+        "lifestyle factors": [
+            "age correlation",
+            "increases with age",
+            "more common with age",
+            "risk increases with age",
+            "age-related increase",
+            "older individuals have higher risk",
+        ],
+        "factors external to our cells": [
+            "age correlation",
+            "increases with age",
+            "more common with age",
+            "risk increases with age",
+            "age-related increase",
+            "older individuals have higher risk",
+        ],
     },
     "amino_acids": {
         "carboxyl pKa 1.8": [
