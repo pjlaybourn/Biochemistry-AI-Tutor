@@ -161,6 +161,45 @@ BIO_CONCEPTS = {
             "age-related increase",
             "older individuals have higher risk",
         ],
+        # ---------------------------
+        # Q4 required_concepts
+        # ---------------------------
+        "clonal origin": [
+            "clonal origin",
+            "single cell origin",
+            "arise from a single cell",
+            "progenitor cell",
+            "one cell gives rise",
+            "monoclonal origin",
+        ],
+
+        "progressive changes": [
+            "progressive changes",
+            "accumulation of changes",
+            "stepwise changes",
+            "multiple changes over time",
+            "progression of changes",
+        ],
+
+        "morphological progression": [
+            "morphological progression",
+            "morphology changes",
+            "morphologically",
+            "appearance changes",
+            "histologic progression",
+            "changes in tumor appearance",
+            "increasingly abnormal appearance",
+        ],
+
+        "age correlation": [
+            "age correlation",
+            "increases with age",
+            "more common with age",
+            "risk increases with age",
+            "age-related increase",
+            "older individuals have higher risk",
+        ],
+        
     },
     "amino_acids": {
         "carboxyl pKa 1.8": [
